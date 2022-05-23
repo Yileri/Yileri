@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yileri
-- 👀 I’m interested in game development.
+- 👀 I’m interested in game development and cyber security.
 - 🌱 I’m currently learning C#, C++ and Unity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 yigit.ileri@ozu.edu.tr

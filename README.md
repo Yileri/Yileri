@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yileri
-- 👀 I’m interested in game development and cyber security.
-- 🌱 I’m currently learning C#, C++ ,Unity and Unreal Engine.
+- 👀 I’m interested in cyber security and frontend development.
 - 💞️ Here is the link for the game that our team developed in Global Game Jam 2022
       https://globalgamejam.org/2022/games/dangerous-notorious-abnormality-3
 - 📫 yigit.ileri@ozu.edu.tr
